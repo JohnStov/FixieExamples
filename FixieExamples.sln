@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFixieExample", "SimpleFixieExample\SimpleFixieExample.csproj", "{1698981D-A5B9-455F-BDA3-05D83B1D7007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWithConvention", "TestWithConvention\TestWithConvention.csproj", "{5591FB81-D52A-455D-BBD3-D5315511A9F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1698981D-A5B9-455F-BDA3-05D83B1D7007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1698981D-A5B9-455F-BDA3-05D83B1D7007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1698981D-A5B9-455F-BDA3-05D83B1D7007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1698981D-A5B9-455F-BDA3-05D83B1D7007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5591FB81-D52A-455D-BBD3-D5315511A9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5591FB81-D52A-455D-BBD3-D5315511A9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5591FB81-D52A-455D-BBD3-D5315511A9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5591FB81-D52A-455D-BBD3-D5315511A9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
