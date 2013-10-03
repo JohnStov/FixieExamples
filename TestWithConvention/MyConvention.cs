@@ -12,7 +12,7 @@ namespace TestWithConvention
 
             Methods.Where(methodInfo => methodInfo.Name.EndsWith("PleaseRun"));
 
-            this.CaseExecution.Wrap(
+            CaseExecution.Wrap(
                 (@case, wrapper, action) =>
                 {
                     Debug.Print(@case.Name);
